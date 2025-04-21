@@ -1,4 +1,4 @@
-module github.com/chrede88/L1nkrTemplate
+module github.com/philfote/test
 
 go 1.24.2
 
